@@ -1,2 +1,0 @@
-find all users who have sent a message that has been read.
-
