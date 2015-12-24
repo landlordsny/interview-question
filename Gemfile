@@ -37,13 +37,13 @@ group :development, :test do
   gem 'web-console', '~> 2.0'
   gem 'spring'
   gem 'rspec-rails'
+  gem 'factory_girl_rails'
 end
 group :development do
   gem 'spring-commands-rspec'
 end
 
 group :test do
-  gem 'factory_girl'
   gem 'faker'
-  gem "shoulda-matchers"
+  gem 'shoulda-matchers'
 end
