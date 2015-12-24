@@ -45,4 +45,5 @@ end
 group :test do
   gem 'factory_girl'
   gem 'faker'
+  gem "shoulda-matchers"
 end
